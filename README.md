@@ -9,12 +9,12 @@
 ---
 
 ### About Me 👋
-- 🎓 Master's in Computer Science at **UCF** (GPA: 4.0) | Expected Graduation: May 2025  
-- 💻 Former **Associate Software Engineer @ OpenText** | Expertise in REST APIs, scalable solutions, and cloud deployments  
+- 🎓 Master's in Computer Science at **UCF** | Expected Graduation: May 2025  
+- 💻 Ex **Associate Software Engineer @ OpenText** | Expertise in REST APIs, scalable solutions, and cloud deployments  
 - 🌱 Passionate about Full-Stack Development, Cloud Technologies, and Advanced Algorithms  
 - 👨‍💻 Experienced in leading development teams and delivering high-impact projects  
-- 🏆 Certified in Agile, CI/CD, and Kubernetes-based cloud deployments  
-- 📊 Excited to tackle challenges, innovate, and learn continuously!
+- 📊 Driven to tackle challenges, innovate, and stay ahead with cutting-edge technologies.
+- 🚀 Exploring opportunities to create meaningful contributions in dynamic teams.
 
 ---
 
@@ -37,45 +37,50 @@
 ---
 
 ### ⚒️ Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> :
-- *Programming Languages:* Java, Python, JavaScript, PHP, C/C++, HTML, CSS, TypeScript  
-- *Web Technologies:* React, Node.js, Django, Spring Boot  
-- *Databases:* SQL Server, MongoDB, PostgreSQL  
-- *Cloud & Tools:* AWS, Kubernetes, Docker, Selenium, Git, Perforce  
-- *Specializations:* REST API Development, Microservices, Agile Methodologies, CI/CD  
+
+- *Languages: Java , Python, JavaScript, PHP, C/C++, HTML, CSS, TypeScript
+- *Database and OS: MySQL, MongoDB ( NoSQL ), PostgreSQL, Unix/Linux, Windows
+- *Tools/Frameworks: React, Spring Boot, NodeJS, Jira, Perforce, Git, AWS, Kubernetes, Selenium, Docker
+- *Concepts: Object-Oriented, Agile, CI/CD, System Design, Distributed Systems, REST APIs, Version Control, Unit Testing
 
 <p align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="36" /</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" height="36" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="40" height="36" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="40" height="36" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="40" height="36" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="40" height="36" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" width="40" height="36" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" height="36" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="40" height="36" /</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="36" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" width="40" height="36" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="40" height="36" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" width="40" height="36" /></a>
 </p>
+
 
 ---
 
 ### 🌟 Featured Projects:
 #### *Suicidal Tweet Analysis*
 - *Tech Stack:* Python, Django, Bootstrap  
-- *Highlights:* Developed a full-stack app powered by an AI model, achieving 89% accuracy in identifying suicidal content.
+- *Highlights:* Developed a full-stack app powered by an Machine Learning model, achieving 89% accuracy in identifying suicidal content.
 
 #### *FuelMart Application*
 - *Tech Stack:* React, Spring Boot, MongoDB  
 - *Highlights:* Designed a gas station inventory tracking system, improving efficiency by 30%.
-
----
-
-### 📊 GitHub Contributions and Activity:
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sujayb255&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sujayb255&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujayb255&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</div>
 
 ---
 
